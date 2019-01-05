@@ -6,7 +6,7 @@ focused on how the css animation can be accessed by timing link. This project ha
 regarding the user click the link. Here css animations can be expressed.
 
 ### Test Link
-<a href="https://ajaykce.github.io/cir/"></a>
+<a href="https://ajaykce.github.io/cir/">Click Here</a>
 
 ## Screenshot
 <img src="screenshot/1.PNG">
